@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "MERN shopping cart application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huseynm/ecommerce.git"
+  },
+  "author": "Huseyn Mikayil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huseynm/ecommerce/issues"
+  },
+  "homepage": "https://github.com/huseynm/ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
